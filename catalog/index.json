@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-11T17:55:08+02:00",
+ "updated": "2026-10-12T15:32:01+07:00",
  "base": "https://raw.githubusercontent.com/foonerd/glass_templates/main/",
  "templates": [
   {
@@ -982,6 +982,30 @@
    ],
    "preview": "template_peppy/1280/400/previews/1280x400_Aluminium_orange_03.png",
    "thumb": "catalog/thumbs/1280x400_Aluminium_orange_03.jpg"
+  },
+  {
+   "name": "1280x400_IronManSkins",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_IronManSkins.zip",
+   "bytes": 2278913,
+   "sha256": "e26872a6a8a6f6b89581f7cb0215d91b8e6fb28e7b22b141a93dce4e5afeba0c",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_IronManSkins/templates/1280x400_IronManSkins/",
+     "folder": "1280x400_IronManSkins",
+     "names": [
+      "IronMan",
+      "IronManBigVU"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_IronManSkins.png",
+   "thumb": "catalog/thumbs/1280x400_IronManSkins.jpg"
   },
   {
    "name": "1280x400_MomentumMxV",

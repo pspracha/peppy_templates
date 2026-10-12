@@ -58,6 +58,29 @@ Meter themes.
 
 ---
 
+## 1280x400_IronManSkins
+
+![1280x400_IronManSkins](previews/1280x400_IronManSkins.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (2 templates) |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- IronMan
+- IronManBigVU
+
+**Download:** [1280x400_IronManSkins.zip](1280x400_IronManSkins.zip)
+
+**Install:** Extract and copy the folder to `/data/INTERNAL/glass/templates/`
+
+---
+
 ## 1280x400_MomentumMxV
 
 ![1280x400_MomentumMxV](previews/1280x400_MomentumMxV.png)
